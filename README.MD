@@ -6,6 +6,11 @@ This is my xfce4 theme repository.
 <div><img src="KirjaWood/Reviews/KirjaWoodReviewDirtyWhiskerMenu.png" ></div>
 
 <h2>Install:</h2><br>
+<h3>Automatic install</h3>
+Download installKirjaWoodTheme.sh from KirjaWood/Release folder.
+Run installKirjaWoodTheme.sh in the terminal like this:
+sudo sh installKirjaWoodTheme.sh
+<h3>Manual install</h3>
 You can find KirjaWood.tar.gz in KirjaWood/Release folder.
 Download KirjaWood.tar.gz
 Unpack the file to /usr/share/themes
