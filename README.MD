@@ -3,6 +3,7 @@ This is my xfce4 theme repository.
 
 <h1>1. KirjaWood</h1>
 <div><img src="KirjaWood/Reviews/KirjaWoodReviewDirty.png" ></div><br>
+<div><img src="KirjaWood/Reviews/KirjaWoodReviewDirty2.png" ></div><br>
 <div><img src="KirjaWood/Reviews/KirjaWoodReviewDirtyWhiskerMenu.png" ></div>
 
 <h2>Install:</h2><br>
