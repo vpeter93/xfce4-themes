@@ -5,6 +5,7 @@ This is my xfce4 theme repository.
 <div><img src="KirjaWood/Reviews/KirjaWoodReviewDirty.png" ></div><br>
 <div><img src="KirjaWood/Reviews/KirjaWoodReviewDirty2.png" ></div><br>
 <div><img src="KirjaWood/Reviews/KirjaWoodReviewDirtyWhiskerMenu.png" ></div>
+<div><img src="KirjaWood/Reviews/KirjaWoodReviewNotify.png" ></div>
 
 <h2>Install:</h2><br>
 <h3>Automatic install</h3>
