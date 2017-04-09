@@ -6,7 +6,8 @@ This is my xfce4 theme repository.
 <div><img src="KirjaWood/Reviews/KirjaWoodReviewDirty2.png" ></div><br>
 <div><img src="KirjaWood/Reviews/KirjaWoodReviewDirtyWhiskerMenu.png" ></div>
 <div><img src="KirjaWood/Reviews/KirjaWoodReviewNotify.png" ></div>
-
+<h2>Video tutorial to install</h2><br>
+<a href="https://www.youtube.com/watch?v=C3s4yayJfh4"/><br>
 <h2>Install:</h2><br>
 <h3>Automatic install</h3>
 <a href="https://github.com/vpeter93/xfce4-themes/blob/master/KirjaWood/Release">Download installKirjaWoodTheme.sh from KirjaWood/Release folder.</a><br>
